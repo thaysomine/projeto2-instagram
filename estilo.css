@@ -152,7 +152,7 @@ a:hover .nickname {
 
 .post {
     width: 95%;
-    height: 18%;
+    height: 15.7%;
     margin-bottom: 60px;
     background: #FFFFFF;
     border: 1px solid #DBDBDB;
@@ -307,6 +307,20 @@ a:hover .nickname {
 }
 .infoadc :first-child {
     margin-bottom: 18px;
+}
+
+video {
+    width: 100%;
+    
+}
+.post-video {
+    width: 95%;
+    height: 12.5%;
+    margin-bottom: 60px;
+    background: #FFFFFF;
+    border: 1px solid #DBDBDB;
+    box-sizing: border-box;
+    border-radius: 3px;
 }
 
 
